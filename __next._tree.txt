@@ -11,6 +11,7 @@
 :HL["/logos/hormigones.png","image"]
 :HL["/logos/fondito.png","image"]
 :HL["/logos/kas.png","image"]
+:HL["/logos/gallinoart.png","image"]
 :HL["/logos/ismaelcortinas.png","image"]
 :HL["/logos/repuestos.png","image"]
 :HL["/logos/eatfull.png","image"]
@@ -27,4 +28,4 @@
 :HL["/logos/cincuenta50.png","image"]
 :HL["/logos/podologamelina.png","image"]
 :HL["/logos/noventa5609.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"3SRxFr-GO8Ag5h1kNuPW2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"BN0Rm66KQKGU6ipqM6u4q"}
